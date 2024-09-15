@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<title>Vinho Chateauneuf du Pape Les Gallimardes</title>
+</head>
+
+<body>
+<h1>Vinho Chateauneuf du Pape Les Gallimardes</h1>
+<img src="../imagens/Vinho Chateauneuf du Pape Les Gallimardes.jpg" width="200" height="300"><p>
+
+Origem: França , Rhône<br>
+Produtor: Domaine Giraud<br>
+Uva: Syrah<br>
+Teor Alcoólico: 15,0°<br>
+Volume: 750ml<br>
+Amadurecimento: 18 meses em inox<br>
+Potencial de guarda: ---<br>
+
+<h2>DESCRIÇÃO</h2>
+Vermelho rubi intenso. Aroma elegante com mirtilo, morango e framboesa. Poderoso na boca,encorpado e ao mesmo tempo elegante com sabores de maçã, cereja em compota, pimenta branca e ervas. Uvas: 90% Grenache de vinhas com mais de 100 anos e 10% Syrah.<p>
+<h2>HARMONIZAÇÃO</h2>
+O Chateauneuf du Pape Les Gallimardes é um vinho tinto encorpado, com taninos presentes e boa acidez. Harmoniza bem com carnes vermelhas grelhadas, cordeiro assado, queijos fortes, como o Roquefort, e pratos com molhos ricos, como um Coq au Vin. A explosão de sabores é intensa e marcante. Para os mais ousados, uma harmonização refinada é com pratos de caça, como o javali, que trazem um sabor intenso e complexo, casando perfeitamente com a complexidade do vinho.<p>
+
+</body>
+</html>

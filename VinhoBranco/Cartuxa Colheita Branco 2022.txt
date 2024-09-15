@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<HEAD>
+<TITLE>Cartuxa Colheita Branco 2022 </TITLE>
+</HEAD>
+
+<BODY>
+
+<h1>Cartuxa Colheita Branco 2022<br></h1>
+<img src="../imagens/Cartuxa-Colheita-Branco.webp" width="200" height="300"><br>
+
+<p>Branco português de grande destaque produzido pela Adega Cartuxa na sub-região de Évora no coração do Alentejo.<br>
+Tem como base as uvas Antão Vaz e Arinto.<br>
+É um vinho muito harmonioso com um aroma fino e cítrico, seu corpo é mediano e apresenta frescor e muita elegância.<br>
+Uma excelente companhia para dias memoráveis.<br></p>
+
+<h3>Ficha Técnica</h3>
+
+Pais<br>
+Portugal<br>
+Região<br>
+Alentejo<br>
+Produtor<br>
+Fundação Eugénio de Almeida<br>
+Tipo<br>
+Vinhos Brancos<br>
+Uvas<br>
+Antão Vaz<br>
+Arinto<br>
+Safra<br>
+2022<br>
+Alcool<br>
+oólico<br>
+13,0%<br>
+Volume<br>
+750ml<br>
+Harmonização<br>
+Frutos do Mar<br>
+Massas com molho branco<br>
+Peixes<br>
+Queijos<br>
+Mais Informações<br>
+Produtor: Fundação Eugénio de Almeida<br>
+
+Região: Alentejo – Évora<br>
+
+Composição: Antão Vaz e Arinto<br>
+
+Amadurecimento: Estagio sobre as borras finas durante 9 meses.<br>
+
+Temperatura de Serviço:  10°C a 12°C<br>
+
+Teor alcoólico: 13%<br>
+
+Harmonização:  Massas, Risotos, Pratos de carnes vermelhas e carnes de caça.<br>
+
+</BODY>
+</HTML>

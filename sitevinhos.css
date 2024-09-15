@@ -1,0 +1,46 @@
+body {
+	background-image: url("imagens/vinho8.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+	background-attachment: scroll;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-family:Georgia;
+	font-size:6em;
+	background:#808080;
+}
+
+h2 {
+    font-size:3em;
+    color: #FFD700;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+li {
+	background-color: white;
+	color: black;
+	padding: 10px;
+	margin: 10px;
+	display: inline-block;
+	width: 200px;
+	border-radius: 5px;
+}
+
+img {
+	width: 100%; 
+	height: auto;
+}
+
+a {
+    color: black;
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<title>Vinho Margaux Chateau Malescot Saint Exupery</title>
+</head>
+
+<body>
+
+<h1>Vinho Margaux Chateau Malescot Saint Exupery</h1><br>
+
+<img src="../imagens/Vinho Margaux Chateau Malescot Saint Exupery.jpg" width="200" height="300"><br>
+
+Safra: 2018<br>
+Origem: França , Bordeaux<br>
+Produtor: Chateau Malescot<br>
+Uva: Cabernet Sauvignon ,Merlot<br>
+Teor Alcoólico: 14,5º<br>
+Volume: 750ml<br>
+Amadurecimento: 15 a 18 meses<br>
+Potencial de guarda: Acima de 10 anos<br>
+
+
+<h2>DESCRIÇÃO</h2>
+James Suckling – 95-96 / 100: “Um Margaux 2017 fantástico, com um cerne profundo e maduro de fruta, taninos suculentos e sedosos, encorpado com um final longo, saboroso e persistente.” Wine Advocate – RP 93/100: “Mescla de 58% Cabernet Sauvignon e 42% Merlot maturados em barricas de carvalho, 70% novas. Cor granada-roxa viva e profunda com aromas evocadores de amoras vermelhas e pretas, kirsch, torta de framboesa completados por notas de flores, de sálvia e de tabaco. Corpo médio, com sabores expressivos de frutas vermelhas e pretas, aveludado e refrescante acabando longo e persistente. “ Wine Spectator 93/100: “Notas de ameixas e de cassis puras e frescas apoiadas numa estrutura polida e refinada, aromas de chá preto, violetas e bergamota num segundo plano. Muito elegante, um belíssimo vinho nessa safra. Beber agora até 2033.”</p>
+
+<h2>VISUAL</h2>
+Este atraente vinho francês apresenta uma cor granada-roxa viva e profunda<p>
+
+<h2>OLFATO</h2>
+Aromas evocadores de amoras vermelhas e pretas, kirsch, torta de framboesa, notas de flores, sálvia e tabaco<p>
+
+<h2>PALADAR</h2>
+Taninos suculentos e sedosos, sabores expressivos de frutas vermelhas e pretas, aveludado e refrescante, final longo e persistente<p>
+
+<h2>HARMONIZAÇÃO</h2>
+O Vinho Tinto Francês Margaux Chateau Malescot Saint Exupery harmoniza bem com pratos à base de carne, como cordeiro e carne de caça, pois sua acidez e taninos equilibram a gordura e intensificam o sabor da carne. Também pode ser servido com queijos maturados, como o Roquefort, que combinam com seus taninos mais intensos. Para uma harmonização mais sofisticada, experimente com pratos que contenham trufas ou cogumelos, que realçam os aromas terrosos presentes no vinho.<p>
+
+
+</body>
+</html>
